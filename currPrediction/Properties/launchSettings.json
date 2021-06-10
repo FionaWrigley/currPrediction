@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "currPrediction": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "X-RAPIDAPI-HOST": "crypto-asset-market-data-unified-apis-for-professionals.p.rapidapi.com",
+        "X-API-KEY": "Vhcl75IoYr5JhVxiaYHArbQydrj0ax",
+        "X-API-SECRET": "BiXE5D7gpAW0Wr3iQoTKp8lwHcNwIyyuscYhIzdKYL6lm",
+        "X-RAPIDAPI-KEY": "898f509432msh796e8c30c2a9d42p1646bajsn3a19fbdf4104"
+      }
+    }
+  }
+}
